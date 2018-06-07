@@ -115,7 +115,7 @@ components:
         trace:
           type: string
           minLength: 3
-          maxLength: 21
+          maxLength: 55
           description: terminal generated trace number 
           example: 166012359591
         requestDate:
